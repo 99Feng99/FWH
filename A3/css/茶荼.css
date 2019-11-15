@@ -1,0 +1,196 @@
+*{
+	margin: 0;padding: 0;
+}
+#bd{
+	background-image: url(../img/Rang茶商城/ia_100000022.jpg);
+	background-attachment: fixed;
+	background-size: 100% auto;
+	position: relative;
+}
+#shouye{
+	position: relative;
+	width: 100%;
+	height: 0;
+	padding-bottom: 50%;
+	
+	background-image: url(../img/Rang茶商城/ia_100000018.jpg);
+	background-size: 100vw auto;
+}
+/*#shouye .btu{
+	position: absolute;
+	display: block;
+	width: 100vw;
+	z-index: -99;
+}*/
+	
+#shoulan{
+	width: 100%;
+	height: 102px;
+}
+.stu{
+	
+	margin-left: 44px;
+	width: 155px;
+	height: 102px;
+	float: left;
+}
+.stu img{
+	width: 80px;
+	display: block;
+	margin-top: 20px;
+	
+}
+.shang{
+	
+	width: 470px;
+	height: 102px;
+	float: right;
+}
+.shang .sz{
+	width: 72px;
+	height: 102px;
+	display: inline-block;
+	text-align: center;
+	line-height: 102px;
+	font-size: 16px;
+	color: grey;
+	
+}
+.shang .sz:first-child{
+	margin-left: 10px ;
+}
+.sb{
+	width: 186px;
+	height: 102px;
+	
+	float: right;
+	letter-spacing: 20px;
+	line-height: 110px;
+	text-indent: 40px;
+	
+}
+.sb div{
+	display: inline-block;
+	
+	width: 20px;
+	height: 20px;
+}
+.sb1{
+	background-image: url(../img/Rang茶商城/jinhling.png);
+	background-position: 0 0;
+	 
+	
+}
+.sb2{
+	background-image: url(../img/Rang茶商城/jinhling.png);
+	background-position: -49px -1px;
+	
+	
+}
+.sb3{
+	background-image: url(../img/Rang茶商城/jinhling.png);
+	background-position: -92px -1px;
+	
+}
+.fkl{
+	position: absolute;
+	width: 47px;
+	height: 5px;
+	background-color: #86c045;
+	left: 50%;
+	bottom: 20px;
+	margin-left: -56px;
+}
+.fkr{
+	position: absolute;
+	width: 47px;
+	height: 5px;
+	background-color: white;
+	left: 50%;
+	bottom: 20px;
+	margin-right: -56px;
+}
+.xs{
+	font-size: 20px;
+	
+	position: absolute;
+	top: 92px;
+	left: 50%;
+	margin-left: -40px;
+	text-align: center;
+}
+
+#zhong{
+	position: relative;
+	background-color: #f7f7f7;
+}
+#ztou{
+	height: 170px;
+}
+
+.xx{
+	left: 50%;
+	margin-left: -28px;
+	position: absolute;
+	top: 120px;
+	color: #9babb8;
+	font-size: 12px;
+}
+#ct{
+	margin: 0 auto;
+	width: calc(100vw - 160px);
+	height: 0;
+	padding-bottom: 80%;
+}
+#ct .lct{
+	width: 27%;
+	height: 50%;
+	display: block;
+	float: left;
+}
+#ct .lct:nth-child(-3n+8){
+	margin: 0 9%;
+}
+#ct .lct img{
+	width: 100%;
+}
+#ct ul{
+	list-style: none;
+	
+}
+#ct .lct p{
+	text-align: center;
+}
+#ct .lct:nth-child(n+4){
+	margin-top: 100px;
+}
+#line{
+	width: 100%;
+	height: 1px;
+	background-color: darkgrey;
+}
+.abh{
+	color: white;
+}
+.ab1{
+	display: block;
+	text-align: center;
+	height: 30px;
+	color: white;
+	position: relative;
+	top: 50px;
+	font-size: 20px;
+	
+}
+.ab2{
+	padding-bottom: 50px;
+	display: block;
+	text-align: center;
+	height: 30px;
+	color: white;
+	position: relative;
+	top: 50px;
+	font-size: 20px;
+	height: 80px;
+	
+}
